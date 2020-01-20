@@ -14,4 +14,4 @@ His research interests include mobile edge computing, data analysis, machine lea
 
 He has obtained the *Outstanding Paper Award* at the *IEEE ISPA-2019*.
 
-He is a student member of ***the CCF*** and ***the IEEE***.
+He is a student member of the CCF and the IEEE.
