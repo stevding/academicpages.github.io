@@ -84,12 +84,12 @@ author:
   avatar           : "dy.jpg"
   bio              : "Ph.D. Candidate in Computer Science and Technology"
   location         : "Changsha, Hunan"
-  university         : "Hunan Univeristy" 
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "ding@hnu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "Hunan Univeristy"
   bitbucket        :
   codepen          :
   dribbble         :
