@@ -83,8 +83,8 @@ author:
   name             : "Yan Ding"
   avatar           : "dy.jpg"
   bio              : "Ph.D. Candidate in Computer Science and Technology"
-  location         : "Changsha, Hunan"
-  employer         : "Hunan Univeristy"
+  location         : "Hunan Univeristy"
+  employer         : #""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "ding@hnu.edu.cn"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
