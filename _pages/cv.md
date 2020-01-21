@@ -36,10 +36,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+Honor
+======
+
 
 Service and leadership
 ======
 * 2019.10-now, Chairman of Postgraduate Association, College of Information Science and Engineering, Hunan University；
-* 2018.09-now,
-
-* 2010-2014, Monitor
+* 2019.07-now, Doctoral Student Working Group of the Blue Fire Project， Ministry of Education of the People's Republic of China；
+* 2019.03-now, Party branch secretary of the Department of Computer Science；
+* 2018.09-now, Monitor, College of Information Science and Engineering, Hunan University；
+* 2015.09-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
+* 2010.09-2014.07, Monitor, College of Software, North University of China；
