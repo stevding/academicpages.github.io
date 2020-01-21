@@ -37,6 +37,11 @@ Teaching
   {% endfor %}</ul>
 -->
 
+Academic Honor
+======
+* 2019.12, Outstanding Paper Award, the 17th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA-2019);
+
+
 Service and leadership
 ======
 * 2019.10-now, Chairman of Postgraduate Association, College of Information Science and Engineering, Hunan University；
@@ -45,10 +50,6 @@ Service and leadership
 * 2018.09-now, Monitor, College of Information Science and Engineering, Hunan University；
 * 2015.09-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
 * 2010.09-2014.07, Monitor, College of Software, North University of China；
-
-Academic Honor
-======
-* 2019.12, Outstanding Paper Award, the 17th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA-2019);
 
 Practice Honor
 ======
