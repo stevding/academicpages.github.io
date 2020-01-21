@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan Ding"
+title                    : "Welcome to Yan Ding's homepage"
 title_separator          : "-"
 name                     : &name "Yan Ding"
-description              : &description "A simple boy"
+description              : &description "Simple Life"
 url                      : https://stevding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stevding/stevding.github.io"
