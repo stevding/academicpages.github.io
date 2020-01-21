@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan Ding's homepage"
+title                    : "Yan Ding's Homepage"
 title_separator          : "-"
 name                     : &name "Yan Ding"
 description              : &description "Simple Life"
