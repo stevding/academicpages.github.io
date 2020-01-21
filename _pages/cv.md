@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Technology, Hunan University, Chasha, Hunan, China, 2018-now
+* Ph.D in Computer Science and Technology, Hunan University, Chasha, Hunan, China, 2018-now;
 * M.S. in Computer Application Technology, Xinjiang University, Urumqi, Xinjiang, China, 2015-2018;
 * B.S. in Software Engineering, North University of China, Taiyuan, Shanxi, China, 2010-2014;
 
