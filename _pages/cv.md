@@ -36,9 +36,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-Honor
-======
-
 
 Service and leadership
 ======
@@ -48,3 +45,17 @@ Service and leadership
 * 2018.09-now, Monitor, College of Information Science and Engineering, Hunan University；
 * 2015.09-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
 * 2010.09-2014.07, Monitor, College of Software, North University of China；
+
+Academic Honor
+======
+* 2019.12, Outstanding Paper Award, the 17th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA-2019);
+
+Practice Honor
+======
+* 2019.12, Outstanding student, Party School of Hunan University;
+* 2019.12, Outstanding student cadres of Hunan University;
+* 2019.08, Outstanding PhD student, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
+* 2018.06, Xinjiang Graduate Autonomous Region Scholarship;
+* 2018.06, Outstanding student cadres of Xinjiang University;
+* 2018.06, Outstanding graduates of Xinjiang University;
+* 2017.12, Outstanding college students (Team) of the 12th "Furong students · role model" (Team leader);
