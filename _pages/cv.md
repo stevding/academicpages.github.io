@@ -41,16 +41,6 @@ Academic Honor
 ======
 * 2019.12, Outstanding Paper Award, the 17th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA-2019);
 
-
-Service and leadership
-======
-* 2019.10-now, Chairman of Postgraduate Association, College of Information Science and Engineering, Hunan University；
-* 2019.07-now, Doctoral Student Working Group of the Blue Fire Project， Ministry of Education of the People's Republic of China；
-* 2019.03-now, Party branch secretary of the Department of Computer Science；
-* 2018.09-now, Monitor, College of Information Science and Engineering, Hunan University；
-* 2015.09-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
-* 2010.09-2014.07, Monitor, College of Software, North University of China；
-
 Practice Honor
 ======
 * 2019.12, Outstanding student, Party School of Hunan University;
@@ -60,3 +50,12 @@ Practice Honor
 * 2018.06, Outstanding student cadres of Xinjiang University;
 * 2018.06, Outstanding graduates of Xinjiang University;
 * 2017.12, Outstanding college students (Team) of the 12th "Furong students · role model" (Team leader);
+
+Service and leadership
+======
+* 2019.10-now, Chairman of Postgraduate Association, College of Information Science and Engineering, Hunan University；
+* 2019.07-now, Doctoral Student Working Group of the Blue Fire Project， Ministry of Education of the People's Republic of China；
+* 2019.03-now, Party branch secretary of the Department of Computer Science；
+* 2018.09-now, Monitor, College of Information Science and Engineering, Hunan University；
+* 2015.09-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
+* 2010.09-2014.07, Monitor, College of Software, North University of China；
