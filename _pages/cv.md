@@ -57,5 +57,5 @@ Service and Leadership
 * 2019.07-now, Doctoral Student Working Group of the Blue Fire Project, Ministry of Education of the People's Republic of China；
 * 2019.03-now, Secretary, Party branch of the Department of Computer Science；
 * 2018.09-now, Prefect, College of Information Science and Engineering, Hunan University；
-* 2015.09-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
+* 2016.03-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
 * 2010.09-2014.07, Monitor, College of Software, North University of China；
