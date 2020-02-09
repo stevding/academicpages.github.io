@@ -44,18 +44,18 @@ Academic Honor
 Practice Honor
 ======
 * 2019.12, Outstanding student, Party School of Hunan University;
-* 2019.12, Outstanding student cadres of Hunan University;
+* 2019.12, Outstanding student cadres, Hunan University;
 * 2019.08, Outstanding PhD student, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
-* 2018.06, Xinjiang Graduate Autonomous Region Scholarship;
-* 2018.06, Outstanding student cadres of Xinjiang University;
-* 2018.06, Outstanding graduates of Xinjiang University;
-* 2017.12, Outstanding college students (Team) of the 12th "Furong students · role model" (Team leader);
+* 2018.06, Graduate Autonomous Region Scholarship, Education Department of Xinjiang Uygur Autonomous Region;
+* 2018.06, Outstanding student cadres, Xinjiang University;
+* 2018.06, Outstanding graduates, Xinjiang University;
+* 2017.12, Outstanding college students (Team) of the 12th "Furong students · role model" (Team leader), Hunan Youth Development Foundation and Xinjiang University;
 
 Service and Leadership
 ======
 * 2019.10-now, Chairman of Postgraduate Association, College of Information Science and Engineering, Hunan University；
 * 2019.07-now, Doctoral Student Working Group of the Blue Fire Project, Ministry of Education of the People's Republic of China；
 * 2019.03-now, Party branch secretary of the Department of Computer Science；
-* 2018.09-now, Monitor, College of Information Science and Engineering, Hunan University；
+* 2018.09-now, Prefect, College of Information Science and Engineering, Hunan University；
 * 2015.09-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
 * 2010.09-2014.07, Monitor, College of Software, North University of China；
