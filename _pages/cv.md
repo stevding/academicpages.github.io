@@ -44,12 +44,12 @@ Academic Honor
 Practice Honor
 ======
 * 2019.12, Outstanding student, Party School of Hunan University;
-* 2019.12, Outstanding student cadres, Hunan University;
+* 2019.12, Outstanding student cadre, Hunan University;
 * 2019.08, Outstanding PhD student, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
 * 2018.06, Graduate Autonomous Region Scholarship, Education Department of Xinjiang Uygur Autonomous Region;
-* 2018.06, Outstanding student cadres, Xinjiang University;
-* 2018.06, Outstanding graduates, Xinjiang University;
-* 2017.12, Outstanding college students (Team) of the 12th "Furong students · role model" (Team leader), Hunan Youth Development Foundation and Xinjiang University;
+* 2018.06, Outstanding student cadre, Xinjiang University;
+* 2018.06, Outstanding graduate, Xinjiang University;
+* 2017.12, Outstanding college student (Team) of the 12th "Furong students · role model" (Team leader), Hunan Youth Development Foundation and Xinjiang University;
 
 Service and Leadership
 ======
