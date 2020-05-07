@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Technology, Hunan University, Chasha, Hunan, China, 2018-present;
+* Ph.D. in Computer Science and Technology, Hunan University, Chasha, Hunan, China, 2018-present;
 * M.S. in Computer Application Technology, Xinjiang University, Urumqi, Xinjiang, China, 2015-2018;
 * B.S. in Software Engineering, North University of China, Taiyuan, Shanxi, China, 2010-2014;
 
@@ -43,18 +43,19 @@ Academic Honor
 
 Practice Honor
 ======
-* 2019.12, Outstanding student, Party School of Hunan University;
-* 2019.12, Outstanding student cadre, Hunan University;
-* 2019.08, Outstanding PhD student, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
+* 2020.05, Outstanding Communist, Party Committee of Hunan University;
+* 2019.12, Outstanding Student, Party School of Hunan University, Graduate Work Department of Hunan University;
+* 2019.12, Outstanding Student Cadre, Hunan University;
+* 2019.08, Commendation Order, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
 * 2018.06, Graduate Autonomous Region Scholarship, Education Department of Xinjiang Uygur Autonomous Region;
-* 2018.06, Outstanding student cadre, Xinjiang University;
-* 2018.06, Outstanding graduate, Xinjiang University;
-* 2017.12, Outstanding college student (Team) of the 12th "Furong students · role model" (Team leader), Hunan Youth Development Foundation and Xinjiang University;
+* 2018.06, Outstanding Student Cadre, Xinjiang University;
+* 2018.06, Outstanding Graduate, Xinjiang University;
+* 2017.12, Furong Student (Team, Leader), Hunan Youth Development Foundation and Communist Youth League Committee of Xinjiang University;
 
 Service and Leadership
 ======
-* 2019.10-present, Chairman of Postgraduate Association, College of Information Science and Engineering, Hunan University；
-* 2019.07-present, Doctoral Student Working Group of the Blue Fire Project, Ministry of Education of the People's Republic of China；
+* 2019.10-present, President, Postgraduate Association, College of Information Science and Engineering, Hunan University；
+* 2019.07-present, Member, Doctoral Student Working Group of the Blue Fire Project, Ministry of Education of the People's Republic of China；
 * 2019.03-present, Secretary, Party branch of the Department of Computer Science；
 * 2018.09-present, Prefect, College of Information Science and Engineering, Hunan University；
 * 2016.03-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
