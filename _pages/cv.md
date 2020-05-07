@@ -37,11 +37,11 @@ Teaching
   {% endfor %}</ul>
 -->
 
-Academic Honor
+Academic Award
 ======
 * 2019.12, Outstanding Paper Award, the 17th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA-2019);
 
-Practice Honor
+Other Awards
 ======
 * 2020.05, Outstanding Communist, Party Committee of Hunan University;
 * 2019.12, Outstanding Student, Party School of Hunan University, Graduate Work Department of Hunan University;
@@ -54,8 +54,8 @@ Practice Honor
 
 Service and Leadership
 ======
-* 2019.10-present, President, Postgraduate Association, College of Information Science and Engineering, Hunan University；
-* 2019.07-present, Member, Doctoral Student Working Group of the Blue Fire Project, Ministry of Education of the People's Republic of China；
+* 2019.10-present, President, Graduate Association, College of Information Science and Engineering, Hunan University；
+* 2019.07-present, Member, Doctoral Student Work Group of Blue Fire Project, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
 * 2019.03-present, Secretary, Party branch of the Department of Computer Science；
 * 2018.09-present, Prefect, College of Information Science and Engineering, Hunan University；
 * 2016.03-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
