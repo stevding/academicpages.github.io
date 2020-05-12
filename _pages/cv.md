@@ -49,7 +49,7 @@ Other Awards
 * 2019.08, Commendation Order, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
 * 2018.06, Postgraduate Autonomous Region Scholarship, Education Department of Xinjiang Uygur Autonomous Region;
 * 2018.06, Outstanding Postgraduate Cadre, Xinjiang University;
-* 2018.06, Outstanding Postgraduate, Xinjiang University;
+* 2018.06, Outstanding Graduate, Xinjiang University;
 * 2017.12, Furong Student (Team, Captain), Hunan Youth Development Foundation and Communist Youth League Committee of Xinjiang University;
 
 Service and Leadership
