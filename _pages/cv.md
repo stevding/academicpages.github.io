@@ -54,7 +54,7 @@ Other Awards
 
 Service and Leadership
 ======
-* 2020.06-present, Founder \$ CEO, Hunan Ai Save Intelligent Technology Co., Ltd;  
+* 2020.06-present, Founder \& CEO, Hunan Ai Save Intelligent Technology Co., Ltd;  
 * 2019.10-present, President, Postgraduate Union, College of Information Science and Engineering, Hunan University；
 * 2019.03-present, Secretary, Party Branch of the Department of Computer Science；
 * 2018.09-present, Prefect, College of Information Science and Engineering, Hunan University；
