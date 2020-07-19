@@ -54,9 +54,10 @@ Other Awards
 
 Service and Leadership
 ======
+* 2020.06-present, Founder \$ CEO, Hunan Ai Save Intelligent Technology Co., Ltd;  
 * 2019.10-present, President, Postgraduate Union, College of Information Science and Engineering, Hunan University；
-* 2019.07-present, Member, Doctoral Student Work Group of Blue Fire Project, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
 * 2019.03-present, Secretary, Party Branch of the Department of Computer Science；
 * 2018.09-present, Prefect, College of Information Science and Engineering, Hunan University；
+* 2019.07-2020.07, Member, Doctoral Student Work Group of Blue Fire Project, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
 * 2016.03-2018.07, Monitor, College of Information Science and Engineering, Xinjiang University；
 * 2010.09-2014.07, Monitor, College of Software, North University of China；
