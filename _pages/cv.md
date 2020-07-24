@@ -37,6 +37,10 @@ Teaching
   {% endfor %}</ul>
 -->
 
+Research Funding
+======
+* 2020.07-2021.07, Research on Task and Resource Scheduling Method in Edge-Terminal Collaborative Computing Architecture, Postgraduate Scientific Research Innovation Project of Hunan Province, Grant NO. CX20200435;
+
 Academic Award
 ======
 * 2019.12, Outstanding Paper Award, the 17th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA-2019);
