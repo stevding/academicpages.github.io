@@ -51,7 +51,7 @@ Other Awards
 * 2020.12, Principle's Scholarship, Hunan University;
 * 2020.12, Outstanding Graduate Pacesetter, Hunan University;
 * 2020.05, Outstanding Communist, Party Committee of Hunan University;
-* 2019.12, Outstanding Student, Party School of Hunan University and Graduate Work Department of Hunan University;
+* 2019.12, Outstanding Student, Party School of Hunan University;
 * 2019.12, Outstanding Graduate Cadre, Hunan University;
 * 2019.08, Commendation Order, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
 * 2018.06, Graduate Autonomous Region Scholarship, Education Department of Xinjiang Uygur Autonomous Region;
