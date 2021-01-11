@@ -47,9 +47,9 @@ Academic Award
 
 Other Awards
 ======
-* 2020.12, Chaoyang Student Cadre Scholarship, 2%, Hunan University;
+* 2020.12, Chaoyang Student Cadre Scholarship, 2‰, Hunan University;
 * 2020.12, Principle Scholarship, 4%, Hunan University;
-* 2020.12, Outstanding Graduate Pacesetter, 2%, Hunan University;
+* 2020.12, Outstanding Graduate Pacesetter, 2‰, Hunan University;
 * 2020.06, Outstanding Party Branch, Secretary of the branch, Communist Party of China Hunan University Committee;
 * 2020.06, Outstanding Communist, Communist Party of China Hunan University Committee;
 * 2019.12, Outstanding Student, 4%, Party School of Hunan University;
