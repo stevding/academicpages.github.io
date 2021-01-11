@@ -50,6 +50,7 @@ Other Awards
 * 2020.12, Chaoyang Student Cadre Scholarship, 2%, Hunan University;
 * 2020.12, Principle Scholarship, 4%, Hunan University;
 * 2020.12, Outstanding Graduate Pacesetter, 2%, Hunan University;
+* 2020.06, Outstanding Party Branch, Secretary of the branch, Communist Party of China Hunan University Committee;
 * 2020.06, Outstanding Communist, Communist Party of China Hunan University Committee;
 * 2019.12, Outstanding Student, 4%, Party School of Hunan University;
 * 2019.12, Outstanding Graduate Cadre, 4%, Hunan University;
@@ -57,7 +58,7 @@ Other Awards
 * 2018.06, Graduate Autonomous Region Scholarship, Education Department of Xinjiang Uygur Autonomous Region;
 * 2018.06, Outstanding Graduate Cadre, Xinjiang University;
 * 2018.06, Outstanding Graduate, Xinjiang University;
-* 2017.12, Furong Student (Team, Captain), Hunan Youth Development Foundation and Xinjiang University Committee of Communist Youth League of China;
+* 2017.12, Furong Student (Team), Captain of the Team, Hunan Youth Development Foundation and Xinjiang University Committee of Communist Youth League of China;
 
 Service and Leadership Experience
 ======
