@@ -57,12 +57,14 @@ Other Awards
 * 2018.06, Graduate Autonomous Region Scholarship, Education Department of Xinjiang Uygur Autonomous Region;
 * 2018.06, Outstanding Graduate Cadre, Xinjiang University;
 * 2018.06, Outstanding Graduate, Xinjiang University;
-* 2017.12, Furong Student (Team, Captain), Hunan Youth Development Foundation and Communist Youth League Committee of Xinjiang University;
+* 2017.12, Furong Student (Team, Captain), Hunan Youth Development Foundation and Xinjiang University Committee of Communist Youth League of China;
 
 Service and Leadership Experience
 ======
-* 2020.12-present, Executive Chairman, Hunan University Graduate Union, Hunan University；
+* 2020.12-present, Executive Chairman, Hunan University Graduate Union, Hunan University;
+* 2020.11-present, Vice Secretary, Committee of the College of Information Science and Engineering of Hunan University, Communist Youth League of China;
 * 2020.06-present, Founder & CEO, Hunan Ai Save Intelligent Technology Co., Ltd;
+* 2019.03-present, Secretary, Computer Science Department Party Branch, Communist Party of China;
 * 2018.09-present, Prefect, College of Information Science and Engineering, Hunan University；
 * 2019.10-2020.10, Chairman, Graduate Union, College of Information Science and Engineering, Hunan University；
 * 2019.07-2020.07, Member, Doctoral Student Work Group of Blue Fire Project, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
