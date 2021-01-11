@@ -62,9 +62,13 @@ Other Awards
 Service and Leadership Experience
 ======
 * 2020.12-present, Executive Chairman, Hunan University Graduate Union, Hunan University；
-* 2020.11-present, Vice Secretary, Communist Youth League Committee of the College of Information Science and Engineering, Hunan University;
-* 2020.06-present, Founder & CEO, Hunan Ai Save Intelligent Technology Co., Ltd;  
-* 2019.03-present, Secretary, Party Branch of the Department of Computer Science；
+<!--
+* 2020.11-present, Vice Secretary, Committee of the College of Information Science and Engineering of Hunan University of Chinese Communist Youth League;
+-->
+* 2020.06-present, Founder & CEO, Hunan Ai Save Intelligent Technology Co., Ltd;
+<!--  
+* 2019.03-present, Secretary, Computer Science Department Branch of Chinese Communist Party；
+-->
 * 2018.09-present, Prefect, College of Information Science and Engineering, Hunan University；
 * 2019.10-2020.10, Chairman, Graduate Union, College of Information Science and Engineering, Hunan University；
 * 2019.07-2020.07, Member, Doctoral Student Work Group of Blue Fire Project, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
