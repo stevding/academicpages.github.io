@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science and Technology, Hunan University, Changsha, Hunan, China, 2018-present;
-* M.S. in Computer Application Technology, Xinjiang University, Urumqi, Xinjiang, China, 2015-2018;
-* B.S. in Software Engineering, North University of China, Taiyuan, Shanxi, China, 2010-2014;
+* 2018.09-present, Ph.D. in Computer Science and Technology, Hunan University, Changsha, Hunan, China;
+* 2015.09-2018.07, M.S. in Computer Application Technology, Xinjiang University, Urumqi, Xinjiang, China;
+* 2010.09-2014.07, B.S. in Software Engineering, North University of China, Taiyuan, Shanxi, China;
 
 Publications
 ======
@@ -47,21 +47,22 @@ Academic Award
 
 Other Awards
 ======
-* 2020.12, Chaoyang Scholarship, Hunan University;
-* 2020.12, Principle's Scholarship, Hunan University;
-* 2020.12, Outstanding Graduate Pacesetter, Hunan University;
+* 2020.12, Chaoyang Student Cadre Scholarship, 2%, Hunan University;
+* 2020.12, Principle Scholarship, 4%, Hunan University;
+* 2020.12, Outstanding Graduate Pacesetter, 2%, Hunan University;
 * 2020.05, Outstanding Communist, Party Committee of Hunan University;
-* 2019.12, Outstanding Student, Party School of Hunan University;
-* 2019.12, Outstanding Graduate Cadre, Hunan University;
+* 2019.12, Outstanding Student, 4%, Party School of Hunan University;
+* 2019.12, Outstanding Graduate Cadre, 4%, Hunan University;
 * 2019.08, Commendation Order, Department of Science and Technology Development, Ministry of Education of the People's Republic of China；
 * 2018.06, Graduate Autonomous Region Scholarship, Education Department of Xinjiang Uygur Autonomous Region;
 * 2018.06, Outstanding Graduate Cadre, Xinjiang University;
 * 2018.06, Outstanding Graduate, Xinjiang University;
 * 2017.12, Furong Student (Team, Captain), Hunan Youth Development Foundation and Communist Youth League Committee of Xinjiang University;
 
-Service and Leadership
+Service and Leadership Experience
 ======
 * 2020.12-present, Executive Chairman, Hunan University Graduate Union, Hunan University；
+* 2020.11-present, Vice Secretary, Communist Youth League Committee of the College of Information Science and Engineering, Hunan University;
 * 2020.06-present, Founder & CEO, Hunan Ai Save Intelligent Technology Co., Ltd;  
 * 2019.03-present, Secretary, Party Branch of the Department of Computer Science；
 * 2018.09-present, Prefect, College of Information Science and Engineering, Hunan University；
